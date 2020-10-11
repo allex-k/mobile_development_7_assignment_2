@@ -1,0 +1,6 @@
+time1:  10:11:12 AM
+time2:  3:10:4 PM
+time3:  0:0:0 AM
+time4:  11:12:13 AM
+time5:  12:0:0 AM
+time6:  11:59:59 PM
