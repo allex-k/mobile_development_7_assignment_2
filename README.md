@@ -1,4 +1,4 @@
-# Mobile development. Programming assignment 2
+# Mobile development. Programming assignment 2 #
 
 Опис трудношів, з якими я  зіштовхнувся в ході виконання завдання.
 В javascript немає 'перегрузки' методів, тож в класі TimeOK заміть чотирьх конструкторів - один.
